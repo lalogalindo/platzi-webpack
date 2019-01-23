@@ -1,4 +1,4 @@
-import './estilos.css';
+import '../css/estilos.css';
 
 document.write('Hola Mundo de CSS');
 
