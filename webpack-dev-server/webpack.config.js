@@ -6,9 +6,6 @@ module.exports = {
 		path: path.resolve(__dirname),
 		filename: 'bundle.css.js'
 	},
-	devServer: {
-		port: 8000
-	},
 	module: {
 		// Loaders
 		rules: [
